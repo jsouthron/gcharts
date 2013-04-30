@@ -91,4 +91,4 @@ Handy extension methods are built in to convert .NET Date/Time objects into Java
     }
 
 
-Feel free to fork, comment, submit bugs or exceptions, joe.southron@gmail.com
+Feel free to fork, comment, submit bugs or exceptions.
